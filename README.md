@@ -18,3 +18,10 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/learning-the-javascript-language-22309208?dApp=59033956&leis=LAA
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEpa5LhtPUlUg/learning-public-crop_675_1200/0/1683586021773?e=2147483647&v=beta&t=vRDAZPrFPLsfXDXkELzJbOrrJL7wKNCAAkAro6e2Fpw
+
+
+Started on Nov 24 2025
+By Estelle
+17:13
+https://www.linkedin.com/learning/paths/javascript-foundations-professional-certificate-by-mozilla?u=89213594
+
